@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning .Net
+- 👀 I’m a back-end developer
+- 🌱 I’m currently learning Web development
 - 📫 How to reach me: https://www.linkedin.com/in/andrey-kalashnikov-087544234/
 
 <!---
